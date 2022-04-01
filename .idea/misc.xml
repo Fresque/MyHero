@@ -3,7 +3,14 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/marti/AndroidStudioProjects/MyHero/app/src/main/res/layout/activity_login.xml" value="0.36666666666666664" />
         <entry key="..\:/Users/marti/AndroidStudioProjects/MyHero/app/src/main/res/layout/activity_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/marti/AndroidStudioProjects/MyHero/app/src/main/res/layout/activity_main_screen.xml" value="0.3494318181818182" />
+        <entry key="..\:/Users/marti/AndroidStudioProjects/MyHero/app/src/main/res/layout/fragment_character_detail.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/marti/AndroidStudioProjects/MyHero/app/src/main/res/layout/fragment_characters.xml" value="0.128125" />
+        <entry key="..\:/Users/marti/AndroidStudioProjects/MyHero/app/src/main/res/layout/view_apparition_item.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/marti/AndroidStudioProjects/MyHero/app/src/main/res/layout/view_events_item.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/marti/AndroidStudioProjects/MyHero/app/src/main/res/layout/view_hero_item.xml" value="0.36666666666666664" />
       </map>
     </option>
   </component>

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "281518326108",
+    "project_id": "myhero-ab82e",
+    "storage_bucket": "myhero-ab82e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:281518326108:android:b475ba92410fb0e0eec199",
+        "android_client_info": {
+          "package_name": "com.martin.myhero"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "281518326108-4cpqm7imdd3cr4t8lt8ne9ruuep4nrgh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.martin.myhero",
+            "certificate_hash": "fbf94cac68d6c5c46f51ab1bc9e57f461419f536"
+          }
+        },
+        {
+          "client_id": "281518326108-gtalp0jrgo8ckn4kvi6gsl2j19sqil8k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABESAJFFyMW-inoapbMTFzS4gWlN-VrDA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "281518326108-gtalp0jrgo8ckn4kvi6gsl2j19sqil8k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
